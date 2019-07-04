@@ -25,7 +25,7 @@ else:
                 if user_number == number_to_guess:
                     print("Al fin adivinas")
                 else:
-                    print("No pegas una, mejor vé y suscribete a Nate Gentile :D")
+                    print("No pegas una. Reinicia el juego :D")
 
 
 
