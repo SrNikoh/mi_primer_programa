@@ -1,5 +1,4 @@
 
-
 number_to_guess = 9
 user_number = int(input("Adivina el número del 1 al 10: "))
 
@@ -26,4 +25,7 @@ else:
                 if user_number == number_to_guess:
                     print("Al fin adivinas")
                 else:
-                    ("No has acertado una, mejor ve y suscribete a Nate Gentile")
+                    print("No pegas una, mejor vé y suscribete a Nate Gentile :D")
+
+
+
