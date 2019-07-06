@@ -31,7 +31,7 @@ while life_pikachu > 0 and opponent_life > 0:
     elif pokemon_choose == "BULBASAUR":
         life_pikachu -= bulbasaur_damage
         print("{} atack you causing {} of damage".format(pokemon_name, bulbasaur_damage))
-    print("Now your lifes points are {}".format( life_pikachu ))
+    print("Now your lifes points are {}".format(life_pikachu))
 print("El combate ha terminado")
 if opponent_life <= 0:
     print("Congrats, you are the pokemon master!")
